@@ -1,10 +1,13 @@
 {
     "name": "ldl/tao-bao-api",
+    "description": "tao bao api",
+    "license": "1.0",
     "authors": [
         {
-            "name": "lidli",
+            "name": "ldl",
             "email": "ibc789@163.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
