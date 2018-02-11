@@ -10,6 +10,6 @@
             "email": "ibc789@163.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
