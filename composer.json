@@ -1,7 +1,9 @@
 {
     "name": "ldl/tao-bao-api",
     "description": "tao bao api",
-    "license": "1.0",
+    "license": "MIT",
+    "keywords": ["tao bao api"],
+    "version": "1.0",
     "authors": [
         {
             "name": "ldl",
