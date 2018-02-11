@@ -1,0 +1,10 @@
+{
+    "name": "ldl/tao-bao-api",
+    "authors": [
+        {
+            "name": "lidli",
+            "email": "ibc789@163.com"
+        }
+    ],
+    "require": {}
+}
